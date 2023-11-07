@@ -7,10 +7,10 @@ The goal was to be able to have a small overlay that I could sit on the top corn
 
 The application aimed to:
 
-Detect every program that is being used on the computer throughout the day.
-Catalogue how much time each of those programs has been used as the main focus application in a day - ie actively using, and not just open in the background.
-Create progress bars that would be able to remind or prompt me that a program was being used excessively as they would change to a bright red.
-Ideally, I wanted to implement some spreadsheet functionality whereby I could properly analyse the data over longitudinal collected sessions, but this was never going to be included in an initial build.
+- Detect every program that is being used on the computer throughout the day.
+- Catalogue how much time each of those programs has been used as the main focus application in a day - ie actively using, and not just open in the background.
+- Create progress bars that would be able to remind or prompt me that a program was being used excessively as they would change to a bright red.
+- Ideally, I wanted to implement some spreadsheet functionality whereby I could properly analyse the data over longitudinal collected sessions, but this was never going to be included in an initial build.
 
 In general, I just wanted to create something small for reinforcing what I believe are good habits.
 
